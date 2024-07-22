@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building my knowledge and Experience**
 
-- 🌱 I’m currently learning **Front End**
+- 🌱 I’m currently learning **Programming Languages, mainly focusing on backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FerosC101](https://github.com/FerosC101)
 
