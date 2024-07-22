@@ -1,4 +1,4 @@
-![blue-typing-cat-working-mode-gzp9vt97s4mcvy26](https://github.com/user-attachments/assets/c3cd0464-6595-4fc9-b559-3f92122a893e)
+
 <h1 align="center">Good Day! 🙋‍♂️ I'm Vince Anjo R. Villar</h1>
 <h3 align="center">Currently a Computer Science Student and on my second year, I'm aiming to become a Data Scientist one day or a Soft Engineer.</h3>
 
