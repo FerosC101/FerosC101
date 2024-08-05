@@ -1,14 +1,12 @@
 
 <h1 align="center">Good Day! 🙋‍♂️ I'm Vince Anjo R. Villar</h1>
-<h3 align="center">Currently a Computer Science Student and on my second year, I'm aiming to become a Data Scientist one day or a Soft Engineer.</h3>
+<h3 align="center">Currently a Computer Science Student and on my second year in Batangas State University - TNEU Alangilan Campus..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferosc101&label=Profile%20views&color=0e75b6&style=flat" alt="ferosc101" /> </p>
 
 - 🔭 I’m currently working on **Building my knowledge and Experience**
 
 - 🌱 I’m currently learning **Programming Languages, mainly focusing on backend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/FerosC101](https://github.com/FerosC101)
 
 - 📫 How to reach me **vincevillar02@gmail.com**
 
