@@ -1,11 +1,13 @@
 
 
-# 💫 About Me
+# 💫 Hi, I'm Vince!
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1c9d224d-f6b5-48aa-a04d-5c81c71f91fa" alt="GIF" width="200" />
 </div>
 
 - 🔭 I’m currently working on **Building my knowledge and Experience**
+
+- 🏫 Studying Computer Science at Batangas State University
 
 - 🌱 I’m currently learning **Programming Languages, mainly focusing on backend**
 
@@ -22,5 +24,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FerosC101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerosC101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
