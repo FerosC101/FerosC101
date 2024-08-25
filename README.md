@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Building my knowledge and Experience**
 
-- 🏫 Studying Computer Science at Batangas State University
+- 🏫 Studying **Computer Science** at **Batangas State University**
 
-- 🌱 I’m currently learning **Programming Languages, mainly focusing on backend**
+- 🌱 I'm aiming to become a **Data Analyst**
 
 - 📫 How to reach me **vincevillar02@gmail.com**
 
