@@ -6,7 +6,6 @@
 
 - 🎓 Currently pursuing a **Bachelor's Degree in Computer Science** at **Batangas State University**.
 - 💼 Aspiring to become a **Data Analyst**, with a strong focus on data analysis, data visualization, and problem-solving.
-- 📧 Reach out to me at **vincevillar02@gmail.com** for professional inquiries or collaborations.
 
 ---
 
