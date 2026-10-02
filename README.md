@@ -1,39 +1,188 @@
-# 👋 Hi, I'm Vince!
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c9d224d-f6b5-48aa-a04d-5c81c71f91fa" alt="GIF" width="200" />
+
+# VINCE/
+
+### systems · machine intelligence · research · things that probably started as "what if?"
+
+**Computer Science @ Batangas State University**
+
+`Batangas, Philippines`
+
+<br>
+
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](https://www.linkedin.com/in/vinceanjovillar/) · [Email](mailto:vincevillar02@gmail.com)
+
 </div>
 
-- 🎓 Currently pursuing a **Bachelor's Degree in Computer Science** at **Batangas State University**.
-- 💼 Aspiring to become a **Data Analyst**, with a strong focus on data analysis, data visualization, and problem-solving.
+---
+
+```text
+FIELD NOTE / 2026
+
+I like building things that sit somewhere between
+software, algorithms, machine intelligence, and hardware.
+
+Most of them begin with a question I can't leave alone.
+```
+
+## / currently
+
+```text
+studying     BS Computer Science
+building     intelligent systems + experimental software
+exploring    edge AI · MLOps · algorithms · LLM systems
+occasionally entering hackathons and losing sleep over prototypes
+```
 
 ---
 
-## 💻 Tech Stack
+## / selected work
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-%230365F0.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### AILA
+`LLM SYSTEMS / NLP / RAG`
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FerosC101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerosC101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+AI-powered platform for analyzing digital trade regulations through document intelligence, semantic search, and retrieval-augmented generation.
+
+`OCR` `NLP` `LLMs` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### Drift-Aware Heavy Hitters
+`ALGORITHMS / DATA STREAMS`
+
+Streaming algorithm for frequency estimation under concept drift using Count-Min Sketch, exponential decay, and heap-based candidate selection.
+
+`CMS` `Streaming` `Algorithms`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### HarvestGuard
+`EDGE AI / EMBEDDED SYSTEMS`
+
+Experimenting with distributed sensing and edge intelligence for real-world post-harvest monitoring.
+
+`STM32` `ESP32` `Edge AI`
+
+</td>
+<td width="50%" valign="top">
+
+### More in the archive →
+Not everything deserves a giant README card.
+
+Some experiments live in repositories.  
+Some died for good reasons.
+
+`github.com/FerosC101`
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FerosC101&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## / field experience
+
+```text
+2026    GCash / Mynt, Inc.
+        Machine Learning Operations Engineer Intern
+
+2026    Universal Steel Smelting Co., Inc.
+        Web Developer
+
+2025    DevFlex
+        Backend Developer
+```
+
+At GCash, I worked around production ML workflows, model monitoring, drift, reliability, experiment tracking, and reproducibility.
+
+---
+
+## / toolbox
+
+I don't really like skill bars, so here's the equipment list.
+
+```text
+LANGUAGES
+Python        JavaScript      Java
+Go            Dart            Kotlin
+C#            C++
+
+SYSTEMS
+FastAPI       Flask           Firebase
+PostgreSQL    MySQL           REST APIs
+Docker        Git
+
+MACHINE INTELLIGENCE
+TensorFlow    scikit-learn    OpenCV
+Pandas        NumPy           MLOps
+RAG           LLM Systems
+
+PHYSICAL COMPUTING
+STM32         ESP32           Arduino
+
+OTHER THINGS I SOMEHOW USE
+Figma         Power BI        Jira
+```
+
+---
+
+## / recognition
+
+```text
+05×   Hackathon Champion
+
+02    Huawei ICT Competition 2025
+      National Finals — Second Prize
+
+10    GCash ImaGnation 2025
+      Top 10
+
+06    BPI DataWave 2025
+      Top 6
+
+24    L'Oréal Brandstorm 2026
+      Philippine National Semi-Finalist
+
+02    DICT Startup X Challenge CALABARZON
+      1st Runner-Up · Best Pitch
+```
+
+---
+
+## / activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FerosC101&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff5a00&text_color=777777&icon_color=ff5a00" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerosC101&layout=compact&hide_border=true&bg_color=00000000&title_color=ff5a00&text_color=777777" />
+
+</div>
+
+---
+
+## / log
+
+```text
+STATUS      building
+MODE        experimental
+LOCATION    Batangas, PH
+INTEREST    systems that survive outside the demo
+```
+
+<div align="right">
+
+`V/README · 2026`
+
+**documented, not decorated.**
+
+</div>
